@@ -1,0 +1,14 @@
+C:\buildschool\LED\LED\bin\Debug\LED.exe.config
+C:\buildschool\LED\LED\bin\Debug\LED.exe
+C:\buildschool\LED\LED\bin\Debug\LED.pdb
+C:\buildschool\LED\LED\obj\Debug\LED.csprojResolveAssemblyReference.cache
+C:\buildschool\LED\LED\obj\Debug\LED.csproj.CoreCompileInputs.cache
+C:\buildschool\LED\LED\obj\Debug\LED.exe
+C:\buildschool\LED\LED\obj\Debug\LED.pdb
+C:\buildschool\黑克松2\LED\LED\bin\Debug\LED.exe.config
+C:\buildschool\黑克松2\LED\LED\bin\Debug\LED.exe
+C:\buildschool\黑克松2\LED\LED\bin\Debug\LED.pdb
+C:\buildschool\黑克松2\LED\LED\obj\Debug\LED.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松2\LED\LED\obj\Debug\LED.csproj.CoreCompileInputs.cache
+C:\buildschool\黑克松2\LED\LED\obj\Debug\LED.exe
+C:\buildschool\黑克松2\LED\LED\obj\Debug\LED.pdb
