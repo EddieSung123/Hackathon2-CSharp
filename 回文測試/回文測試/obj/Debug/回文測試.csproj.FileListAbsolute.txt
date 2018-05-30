@@ -1,0 +1,14 @@
+C:\buildschool\回文測試\回文測試\obj\Debug\回文測試.csprojResolveAssemblyReference.cache
+C:\buildschool\回文測試\回文測試\obj\Debug\回文測試.csproj.CoreCompileInputs.cache
+C:\buildschool\回文測試\回文測試\bin\Debug\回文測試.exe.config
+C:\buildschool\回文測試\回文測試\bin\Debug\回文測試.exe
+C:\buildschool\回文測試\回文測試\bin\Debug\回文測試.pdb
+C:\buildschool\回文測試\回文測試\obj\Debug\回文測試.exe
+C:\buildschool\回文測試\回文測試\obj\Debug\回文測試.pdb
+C:\buildschool\黑克松2\回文測試\回文測試\bin\Debug\回文測試.exe.config
+C:\buildschool\黑克松2\回文測試\回文測試\bin\Debug\回文測試.exe
+C:\buildschool\黑克松2\回文測試\回文測試\bin\Debug\回文測試.pdb
+C:\buildschool\黑克松2\回文測試\回文測試\obj\Debug\回文測試.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松2\回文測試\回文測試\obj\Debug\回文測試.csproj.CoreCompileInputs.cache
+C:\buildschool\黑克松2\回文測試\回文測試\obj\Debug\回文測試.exe
+C:\buildschool\黑克松2\回文測試\回文測試\obj\Debug\回文測試.pdb
