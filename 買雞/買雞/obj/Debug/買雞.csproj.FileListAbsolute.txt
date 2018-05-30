@@ -1,0 +1,7 @@
+C:\buildschool\黑克松2\買雞\買雞\bin\Debug\買雞.exe.config
+C:\buildschool\黑克松2\買雞\買雞\bin\Debug\買雞.exe
+C:\buildschool\黑克松2\買雞\買雞\bin\Debug\買雞.pdb
+C:\buildschool\黑克松2\買雞\買雞\obj\Debug\買雞.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松2\買雞\買雞\obj\Debug\買雞.csproj.CoreCompileInputs.cache
+C:\buildschool\黑克松2\買雞\買雞\obj\Debug\買雞.exe
+C:\buildschool\黑克松2\買雞\買雞\obj\Debug\買雞.pdb
