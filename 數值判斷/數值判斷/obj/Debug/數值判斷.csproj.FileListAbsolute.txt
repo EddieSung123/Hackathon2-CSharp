@@ -1,0 +1,14 @@
+C:\buildschool\數值判斷\數值判斷\bin\Debug\數值判斷.exe.config
+C:\buildschool\數值判斷\數值判斷\bin\Debug\數值判斷.exe
+C:\buildschool\數值判斷\數值判斷\bin\Debug\數值判斷.pdb
+C:\buildschool\數值判斷\數值判斷\obj\Debug\數值判斷.csproj.CoreCompileInputs.cache
+C:\buildschool\數值判斷\數值判斷\obj\Debug\數值判斷.exe
+C:\buildschool\數值判斷\數值判斷\obj\Debug\數值判斷.pdb
+C:\buildschool\數值判斷\數值判斷\obj\Debug\數值判斷.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松2\數值判斷\數值判斷\bin\Debug\數值判斷.exe.config
+C:\buildschool\黑克松2\數值判斷\數值判斷\bin\Debug\數值判斷.exe
+C:\buildschool\黑克松2\數值判斷\數值判斷\bin\Debug\數值判斷.pdb
+C:\buildschool\黑克松2\數值判斷\數值判斷\obj\Debug\數值判斷.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松2\數值判斷\數值判斷\obj\Debug\數值判斷.csproj.CoreCompileInputs.cache
+C:\buildschool\黑克松2\數值判斷\數值判斷\obj\Debug\數值判斷.exe
+C:\buildschool\黑克松2\數值判斷\數值判斷\obj\Debug\數值判斷.pdb

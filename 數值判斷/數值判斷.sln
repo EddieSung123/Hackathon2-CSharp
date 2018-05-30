@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "數值判斷", "數值判斷\數值判斷.csproj", "{BA35E949-AC2E-4EF3-AB3D-0F7C8C6C8D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA35E949-AC2E-4EF3-AB3D-0F7C8C6C8D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA35E949-AC2E-4EF3-AB3D-0F7C8C6C8D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA35E949-AC2E-4EF3-AB3D-0F7C8C6C8D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA35E949-AC2E-4EF3-AB3D-0F7C8C6C8D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01343213-89B6-4D9C-AAC8-51C54BDE3E84}
+	EndGlobalSection
+EndGlobal
